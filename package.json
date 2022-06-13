@@ -1,7 +1,7 @@
 {
   "name": "travel-journal",
   "version": "0.1.0",
-  "homepage": "https://nzabajp.github.io/",
+  "homepage": "https://nzabajp.github.io/travel-journal",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
